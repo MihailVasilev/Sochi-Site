@@ -1,0 +1,8 @@
+h3 {
+    text-align: center;
+}
+body{
+    background-image: url("sochi.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
